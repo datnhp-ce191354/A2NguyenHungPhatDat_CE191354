@@ -1,0 +1,8 @@
+node_modules/
+dist/
+target/
+.idea/
+frontend/.env
+frontend/.env.local
+backend/funews-demo.mv.db
+backend/funews-demo.trace.db
